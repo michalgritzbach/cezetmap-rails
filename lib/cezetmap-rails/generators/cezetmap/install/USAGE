@@ -1,0 +1,12 @@
+Description:
+    Setup CEZET Map assets in your app
+
+Example:
+  rails g cezetmap-rails:install
+
+  This will insert cezetmap require lines into default application assets:
+    /app/assets/javascripts/application.js
+    /app/assets/stylesheets/application.css
+
+  And create simple override file:
+    /app/assets/stylesheets/cezetmap_and_overrides.scss

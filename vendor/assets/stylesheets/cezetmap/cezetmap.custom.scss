@@ -1,0 +1,16 @@
+/* CEZET Map v2.3
+ * 17.3.2013 (c) Moravio.com
+ * Licence CC BY
+ */
+
+.cezetmap{
+	/* width & height ratio: 1.734 */
+	width: 370px;
+	/* 370 / 1.734 = 213.39 */
+	height: 213px;
+}
+
+.cezetmap .kraje{
+	/* musi byt stejne jako sirka (width) elementu cezetmap */
+	font-size: 370px;	
+}
